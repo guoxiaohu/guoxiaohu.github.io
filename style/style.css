@@ -6,7 +6,7 @@ html
   padding: 0;}
 
 body
-{ font: normal .80em 'trebuchet ms', Times New Roman, sans-serif;
+{ font: normal .80em 'trebuchet ms', 'Times New Roman', sans-serif;
   background: #F7F7F7 url(pattern.png) fixed;
   color: #555;}
 
@@ -19,13 +19,13 @@ img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 180% Times New Roman, 'Yanone Kaffeesatz', arial, sans-serif;
+{ font: normal 180% 'Times New Roman', 'Yanone Kaffeesatz', arial, sans-serif;
   color: #444;
   margin: 0 0 15px 0;
   padding: 5px 0 5px 0;}
 
 h2
-{ font: normal 120% Times New Roman, arial, 'Yanone Kaffeesatz', sans-serif;
+{ font: normal 120% 'Times New Roman', arial, 'Yanone Kaffeesatz', sans-serif;
   color: #F14E23;  
   margin: 0;
   padding: 0 0 8px 0;}
@@ -38,12 +38,12 @@ h3
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
-  font: normal 100% Times New Roman, arial, sans-serif;
+  font: normal 100% 'Times New Roman', arial, sans-serif;
   color: #F14E23;
   line-height: 1em;}
 
 h5, h6
-{ font: italic 95% Times New Roman, arial, sans-serif;
+{ font: italic 95% 'Times New Roman', arial, sans-serif;
   color: #888;
   padding-bottom: 15px;}
 
@@ -226,7 +226,7 @@ ul#menu li a:hover
 #footer
 { clear: both;
   width: 100%;
-  font: normal 150% Times New Roman, 'yanone kaffeesatz',  arial, sans-serif;
+  font: normal 150% 'Times New Roman', 'yanone kaffeesatz',  arial, sans-serif;
   height: 85px;
   padding: 20px 0 5px 0;
   text-align: center; 
