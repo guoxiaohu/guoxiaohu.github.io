@@ -142,6 +142,11 @@ ul#sidebar
   margin: 40px 0px 20px 20px; 
 }
 
+ul#sidebarimg
+{ float: center;
+  margin: 20px 0px 0px 10px; 
+}
+
 ul#menu li
 { float: left;
   padding: 0 0 0px 0px;
